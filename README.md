@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @elena-miles
-- 👀 I’m interested in learning front end development, I am motivated by look and feel and love to read and consume all things software related. 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m not looking to collaborate just yet ...
-- 📫 How to reach me ... thats funny, ill update this when im ready to be reached. 
-- 😄 Pronouns: she
+- 👀 I’m learning **front-end development** 
+- 🌱 Currently building with JavaScript, **React**. 
+- Not looking to collaborate just yet, but happy to connect!
 - ⚡ Fun fact: Two things can be true, Life is full of paradoxes!
 
 <!---
